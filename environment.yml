@@ -4,4 +4,4 @@ channels:
   - bioconda
 dependencies:
   - python=3.6
-  - anvio=7
+  - anvio-minimal=7.1
