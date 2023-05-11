@@ -1,0 +1,6 @@
+name: anvio
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - anvio=7.1
